@@ -2,7 +2,7 @@
     "name": "Laborate.io",
     "description": "Collaborative development accross diverse fields made easy and affordable!",
     "version": "0.0.0.1",
-    "manifest_version": 1,
+    "manifest_version": 2,
     "icons": {
         "128": "128.png"
     },
