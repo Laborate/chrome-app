@@ -1,9 +1,10 @@
 {
     "name": "Laborate.io",
-    "description": "Collaborative development accross diverse fields made easy and affordable!",
+    "description": "Collaborate Anywhere",
     "version": "0.0.0.1",
     "manifest_version": 2,
     "icons": {
+        "16": "16.png",
         "128": "128.png"
     },
     "app": {
